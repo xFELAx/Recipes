@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CookBook</string>
+    <string name="title_activity_main">Ekran Główny</string>
+    <string name="start">Start</string>
+    <string name="title_activity_dish_detail" />
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="kat1_tab">Home</string>
+    <string name="kat2_tab">Kuchnia Japońska</string>
+    <string name="kat3_tab">Kuchnia Meksykańska</string>
+    <string name="app_description">Aplikacji typu lista-szczegóły ze spisem przepisów kulinarnych. Autorzy: Mikołaj Felczyński (147400), Mateusz Dębski (148216)</string>
+    <string name="app_name_pl">Książka Kucharska</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+</resources>

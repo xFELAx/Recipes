@@ -1,0 +1,23 @@
+
+e
+5app/src/main/java/com/example/recipes/HomeFragment.kt,f\e\fe52e62222500e3b23571d5e65bbef312806cf53
+e
+5app/src/main/java/com/example/recipes/MainActivity.kt,9\6\96296f003e95d6d83b4bd647ac1feab241e1b554
+o
+?app/src/main/java/com/example/recipes/CaptionedImagesAdapter.kt,3\6\36e631ca25bc284a7ac33b2e614e22e434f7a20a
+j
+:app/src/main/java/com/example/recipes/Category2Fragment.kt,2\5\254585769c02db2359be5d19469fd4dcc2326311
+m
+=app/src/main/java/com/example/recipes/RecipeDetailActivity.kt,f\b\fb071b63a2cbc82259982992de6b40947a0cf42c
+o
+?app/src/main/java/com/example/recipes/SingleFragmentActivity.kt,0\f\0fc4bf4da9505cbbb538b047163ba7ac1ace961e
+g
+7app/src/main/java/com/example/recipes/StoperFragment.kt,0\d\0d66e2b6e341ec51a19df9288a4ec762b5073e07
+g
+7app/src/main/java/com/example/recipes/SunsetActivity.kt,d\9\d9cecba451a9449b8d324fc49f66f511477aefd7
+g
+7app/src/main/java/com/example/recipes/SunsetFragment.kt,e\7\e7a5077f1c4655d4d0ad6c3572ed9213c9fadce0
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+j
+:app/src/main/java/com/example/recipes/Category1Fragment.kt,4\9\49735ca944c9be610fe76ef6710ba699a91c9ded
